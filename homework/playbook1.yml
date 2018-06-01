@@ -1,0 +1,4 @@
+---
+ - name: test connection to hosts
+   hosts: all
+   
